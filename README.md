@@ -1,4 +1,4 @@
-#**Kaggle: Pandas for Data Science**
+# Kaggle: Pandas for Data Science
 
 This repository houses my work for the Pandas track on Kaggle. Pandas is the primary tool for data discovery and feature engineering in the Data Science and AI ecosystem.
 
